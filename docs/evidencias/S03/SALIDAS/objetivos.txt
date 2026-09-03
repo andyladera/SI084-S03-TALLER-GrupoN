@@ -8,4 +8,5 @@ Contenedores identificados en el rango:
 - greenbone-community-edition-nginx-1 (172.19.0.17)
 - greenbone-community-edition-gvmd-1 (172.19.0.15)
 
-https://i.ibb.co/nsPkDrtZ/1.png
+
+
