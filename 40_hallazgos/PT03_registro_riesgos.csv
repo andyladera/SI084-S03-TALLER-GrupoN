@@ -1,0 +1,6 @@
+id_riesgo,activo,dueno_del_riesgo,vulnerabilidad,cve,cvss,probabilidad,impacto,riesgo_inherente,nivel
+R-001,Base de datos ERP,Gerencia de Finanzas,PostgreSQL Weak Password,CVE-2023-2453,9.8,5,5,25,Critico
+R-002,Portal de clientes,Gerencia Comercial,Remote Code Execution in JuiceShop,CVE-2024-1024,8.5,4,4,16,Alto
+R-004,App legada interna,Gerencia de Operaciones,Legacy Application SQL Injection,CVE-2022-3052,7.5,4,3,12,Alto
+R-003,Portal corporativo,Gerencia Comercial,Nginx Insecure Cryptographic Transport,CVE-2023-4012,5.0,3,2,6,Medio
+R-005,Componente Interno,TI,Openvasd Configuration Defaults,N/D,4.3,2,2,4,Medio
